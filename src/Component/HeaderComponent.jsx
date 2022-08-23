@@ -12,7 +12,7 @@ import Logout from './Dashboard/Logout';
 
 export default function HeaderComponent() {
     return (
-        <div>
+        <div className='scroller-btn'>
            <Navbar />
            <Sidenav />
            {/* registration all routes */}
