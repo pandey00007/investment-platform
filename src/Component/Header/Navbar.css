@@ -1,0 +1,118 @@
+.tlbar{
+    display: flex;
+    z-index: 9999;
+    flex-flow: nowrap;
+    background: #ffffff!important;
+}
+.ml-2{margin-left: 30px;}
+.navlist{
+    min-width: 250px;
+    max-width: 300px;
+}
+#nav-pro{color: #000000;}
+.navavtar{
+    height: 45px;
+    width: 45px;
+}
+.avtar-ul{
+    background: blue!important;
+    color: white;
+}
+.wrapper{padding:16px 16px 0px 260px; background: #efefef;}
+
+.navlink:hover {
+    color: blue!important;
+}
+a.navlink:active {
+    color: red!important;
+}
+.navlink{color: #ffffff!important;}
+.title-first{color: gray;
+font-size: 18px!important; margin-bottom: 11px;
+}
+.mt-3{padding-top: 24px;}
+.subtitle{font-size: 25px; font-weight: 600; margin: 0;}
+.css-gtzar7-MuiDrawer-docked .MuiDrawer-paper{background: #3291bd!important;}
+.jyk{border: 1px solid #f0f0f8!important;
+    border-radius: 4px!important;
+    margin-right: 10px!important;
+    color: #777!important;}
+.bti{color:red!important; border: 1px solid gray!important;}
+.paragraph{color: #868686; font-weight: 700!important; font-size: 14px!important;}
+.paragraph1{color: #3291bd!important; font-weight: 700!important; font-size: 14px!important; margin-left: 8px!important;}
+
+
+
+/* sidebar css */
+.App {
+    font-family: sans-serif;
+    height: 100%;
+    display: flex;
+    position: relative;
+  }
+  
+  .App .main {
+    padding: 24px;
+    flex-grow: 1;
+    display: flex;
+  }
+.sidebar-btn-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 24px;
+  }
+  
+  .sidebar-btn {
+    padding: 1px 15px;
+    border-radius: 40px;
+    background: rgba(255, 255, 255, 0.05);
+    color: #adadad;
+    text-decoration: none;
+    margin: 0 auto;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+  
+  .sidebar-btn span {
+    margin-left: 10px;
+    font-size: 13px;
+  }
+/* Sidebar css */
+.MuiPaper-root.MuiDrawer-paper.MuiDrawer-paperAnchorLeft.MuiDrawer-paperAnchorDockedLeft.MuiPaper-elevation0 {
+  width:215px;
+  background: #3291bd;
+  padding:50px 16px 16px 16px;
+}
+.MuiButton-text {
+  padding: 6px 0px;
+}
+.MuiList-root{
+  color:#ffffff;
+}
+.MuiList-root a{color:#ffffff;text-decoration:none;}
+.MuiList-root i{margin-right: 16px;}
+.MuiList-root li:hover{background: rgba(0,0,0,0.1); opacity: 1;}
+.MuiList-root li{padding: 10px; border-radius: 4px;font-size: 13px;
+  font-weight: 500; opacity: 0.8;position: relative;
+}
+span.MuiButton-label:hover{background:none!important;}
+  span.MuiButton-label {
+    color: #ffffff;
+    font-size: 13px;
+    text-transform: none;
+    font-weight: 500;
+}
+#add-btn svg{margin-left: 27px;
+  font-size: 13px;position: absolute; left: 128px; opacity: 0.8;}
+  .MuiButton-text {
+    padding: 6px 0px!important;
+}
+.MuiCollapse-entered{background: rgba(0,0,0,0.1);padding-left: 20px;}
+.scroller-btn{height: 100%;}
+.MuiDrawer-paper{position: relative!important;}
+  
