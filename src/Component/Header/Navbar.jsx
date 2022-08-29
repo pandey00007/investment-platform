@@ -49,7 +49,7 @@ export default function Navbar() {
               
             </Box>
             <Typography variant="h6" className='paragraph'>
-            This demo is in sandbox mode and you will have limited access to the admin panel options. Have a question? Shreya
+            This demo is in sandbox mode and you will have limited access to the admin panel options. Have a question? 
           
           </Typography>
           <Typography variant="h6" className='paragraph1'>
