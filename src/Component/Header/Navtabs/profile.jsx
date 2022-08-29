@@ -3,7 +3,6 @@ import {Box, Menu, MenuItem, Button, ListItem, ListItemIcon, ListItemText, Avata
 
 import SettingsIcon from '@mui/icons-material/Settings';
 import LogoutIcon from '@mui/icons-material/Logout';
-import image from "./pic.jpeg";    
 import PersonIcon from '@mui/icons-material/Person';
 
 export default function Profile() {

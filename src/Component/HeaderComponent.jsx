@@ -9,6 +9,9 @@ import Blogcomponent from './Dashboard/Blogcomponent';
 import Notification from './Dashboard/Notification';
 import Link from './Dashboard/Link';
 import Logout from './Dashboard/Logout';
+import LoginForm from './LoginForm/LoginForm';
+
+
 
 export default function HeaderComponent() {
     return (
@@ -23,6 +26,9 @@ export default function HeaderComponent() {
         <Route exact path="/link" element={<Link/>} />        
         <Route exact path="/notification" element={<Notification/>} />
         <Route exact path="/logout" element={<Logout/>} />
+        <Route exact path="/loginform" element={<LoginForm/>} />
+
+        
     
       </Routes>
       
